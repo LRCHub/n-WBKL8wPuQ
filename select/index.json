@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "星が泳ぐ",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-05T03:08:37.668751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星が泳ぐ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": false,
+      "path": "select/01_星が泳ぐ_Macaroni_Empitsu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星が泳ぐ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/02_星が泳ぐ_マカロニえんぴつ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星が泳ぐ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_星が泳ぐ_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星が泳ぐ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/04_星が泳ぐ_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "星が泳ぐ - Hoshigaoyogu",
+      "artist": "Macaroni Empitsu",
+      "has_synced": false,
+      "path": "select/05_星が泳ぐ_-_Hoshigaoyogu_Macaroni_Empitsu.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マカロニえんぴつ「星が泳ぐ」MV",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/06_マカロニえんぴつ「星が泳ぐ」MV_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "星が泳ぐ (Hoshigaoyogu)",
+      "artist": "Macaroni Empitsu",
+      "has_synced": false,
+      "path": "select/07_星が泳ぐ_(Hoshigaoyogu)_Macaroni_Empitsu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星が泳ぐ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_星が泳ぐ_マカロニえんぴつ.txt"
+    }
+  ]
+}
